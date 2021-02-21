@@ -1,5 +1,5 @@
 # kaldi4chinese
-Simplify and Comment Kaldi toolkit for Chinese Speech Recognition
+Simplify and Comment Kaldi toolkit for Chinese Speech Recognition（not available yet, updating）
 
 This item is for personal use only, so stability cannot be guaranteed.
 
